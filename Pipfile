@@ -14,7 +14,6 @@ ptyprocess = {version = "*", markers="sys_platform != 'win32'"}
 matplotlib = "*"
 ipython = "*"
 tabulate = "*"
-great-tables = "*"
 pandas = "*"
 altair = "*"
 seaborn = "*"
@@ -27,6 +26,9 @@ plotly = "*"
 pathlib = "*"
 nbformat = "*"
 statsmodels = "*"
+great-tables = "*"
+polars = "*"
+pyarrow = "*"
 
 [dev-packages]
 
